@@ -1,0 +1,7 @@
+[+] 192.168.1.1 está ACTIVA
+[-] 192.168.1.2 no responde
+[-] 192.168.1.8 no responde
+[-] 192.168.1.254 no responde
+[+] 8.8.8.8 está ACTIVA
+
+Total activas: 2
